@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Reey';
-    src: url('https://cdn.jsdelivr.net/gh/jeanbispo/reey-font@1.10/Reey-Regular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/jeanbispo/reey-font@1.10/Reey-Regular.woff') format('woff');
+    src: url('Reey-Regular.woff2') format('woff2'),
+        url('Reey-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
